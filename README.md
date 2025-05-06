@@ -6,7 +6,7 @@
 
 <h1 align="center">Moru App</h1>
 
-<h1 align="center">本Fork主要针对移动平台，支持Android，IOS，其余平台将逐渐弱化支持</h1>
+<h1 align="center">本Fork主要针对移动平台，支持Android，iOS，其余平台将逐渐弱化支持</h1>
 
 <p align="center">免费，开源的 支持视频，漫画，小说扩展源的多功能应用，支持 Android，Windows，Web.</p>
 

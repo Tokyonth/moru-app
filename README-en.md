@@ -6,7 +6,7 @@
 
 <h1 align="center">Moru App</h1>
 
-<h1 align="center">This Fork is mainly aimed at mobile platforms and supports Android and IOS. Support for other platforms will gradually weaken.</h1>
+<h1 align="center">This Fork is mainly aimed at mobile platforms and supports Android and iOS. Support for other platforms will gradually weaken.</h1>
 
 <p align="center">Free and open source Multi-functional application that supports video, comics, novels extended source for Android, Windows, Web.</p>
 
